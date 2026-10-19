@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Lopus Client" width="140">
+<img src="https://i.ibb.co/9k6NwVsd/lopus.jpg" alt="Lopus Client" width="140">
 
 # Lopus Client
 
